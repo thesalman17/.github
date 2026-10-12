@@ -23,7 +23,7 @@
 
 ## 👋 Hey, this is us
 
-We are TestMu AI, the full-stack agentic AI quality engineering cloud. We help engineering teams automate E2E testing across web, mobile, visual, accessibility, and AI agents in one platform.
+We are TestMu AI, the full-stack agentic AI quality engineering platform. We help engineering teams automate E2E testing across web, mobile, visual, accessibility, and AI agents in one platform.
 
 Autonomous AI agents plan, author, and evolve your E2E tests from natural language prompts or company-wide context, across every layer: UI, API, database, performance, and more. A high-performance agentic test cloud runs them at any scale on shared cloud, private cloud, or on-premise. And as AI ships into production, we assure that it works as intended, safely and securely, across chat, voice, IVR, phone, and video agents.
 
